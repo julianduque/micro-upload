@@ -1,0 +1,26 @@
+{
+  "name": "micro-upload",
+  "version": "1.0.0",
+  "description": "A express-fileupload wrapper for micro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianduque/micro-upload.git"
+  },
+  "keywords": [
+    "micro",
+    "fileupload"
+  ],
+  "author": "Julian Duque <julianduquej@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/julianduque/micro-upload/issues"
+  },
+  "homepage": "https://github.com/julianduque/micro-upload#readme",
+  "dependencies": {
+    "express-fileupload": "^0.1.2"
+  }
+}
