@@ -29,14 +29,12 @@ module.exports = upload(async (req, res) => {
 ## Authors and Contributors
 
 <table><tbody>
-<tr><th align="left">Julián Duque</th><td><a href="https://github.com/julianduque">GitHub/julianduque</a></td><td><a href="http://twitter.com/julian_duque">Twitter/@juli
-an_duque</a></td></tr>
+<tr><th align="left">Julián Duque</th><td><a href="https://github.com/julianduque">GitHub/julianduque</a></td><td><a href="http://twitter.com/julian_duque">Twitter/@julian_duque</a></td></tr>
 </tbody></table>
 
 Contributions are welcomed from anyone wanting to improve this project!
 
 ## License & Copyright
 
-**micro-upload** is Copyright (c) 2017 Julian Duque and licensed under the MIT license. All rights not explicitly granted in the MIT license are reserved. See the included [LICENS
-E.md](https://github.com/julianduque/micro-upload/blob/master/LICENSE.md) file for more details.
+**micro-upload** is Copyright (c) 2017 Julian Duque and licensed under the MIT license. All rights not explicitly granted in the MIT license are reserved. See the included [LICENSE.md](https://github.com/julianduque/micro-upload/blob/master/LICENSE.md) file for more details.
 
