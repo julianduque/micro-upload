@@ -18,6 +18,10 @@ exports.upload = function upload (opts, fn) {
 
 exports.move = function move (src, dst) {
   return new Promise((resolve, reject) => {
+    if (!src || typeof src.mv !== 'function') {
+      reject(new TypeError('First argument must be an upload file object'))
+    }
+
     src.mv(dst, err => {
       if (err) return reject(err)
 
