@@ -1,6 +1,6 @@
 {
   "name": "micro-upload",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A express-fileupload wrapper for micro",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/julianduque/micro-upload#readme",
   "dependencies": {
-    "express-fileupload": "^0.1.2"
+    "express-fileupload": "^1.1.6-alpha.6"
   }
 }
